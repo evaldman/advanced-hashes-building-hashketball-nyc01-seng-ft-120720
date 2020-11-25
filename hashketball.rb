@@ -92,7 +92,7 @@ def game_hash
           slam_dunks: 10
         },
         {
-          player_name: "DeSagna Diop"
+          player_name: "DeSagna Diop",
           number: 2,
           shoe: 14,
           points: 24,
@@ -114,7 +114,7 @@ def game_hash
           slam_dunks: 0
         },
         {
-          player_name: "Kemba Walker"
+          player_name: "Kemba Walker",
           number: 33,
           shoe: 15,
           points: 6,
