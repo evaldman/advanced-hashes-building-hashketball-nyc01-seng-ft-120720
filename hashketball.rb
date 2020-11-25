@@ -1,3 +1,5 @@
+require 'pry'
+
 def game_hash
   {
     home:{
@@ -25,10 +27,22 @@ def game_hash
           assists: 12,
           steals: 12,
           blocks: 1,
-          slam_dunks: 15
+          slam_dunks: 7
         },
         {
-          player_name:
+          player_name: "Brook Lopez",
+          number: 11,
+          shoe: 17,
+          points: 17,
+          rebounds: 19,
+          assists: 10,
+          steals: 3,
+          blocks: 1,
+          slam_dunks: 15
+        },
+        Binding.pry
+        {
+          player_name: 
           number:
           shoe:
           points:
